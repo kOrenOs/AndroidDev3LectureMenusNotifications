@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">AndroidDevNotifMenusLecture</string>
+    <string name="exitApplication">Exit Application</string>
+    <string name="notifications">Notifications</string>
+    <string name="dialogs">Dialogs</string>
+    <string name="optional_menu">Optional menu</string>
+    <string name="backNotificationPublic">Back notification public</string>
+    <string name="calendarAction">Calendar activity</string>
+    <string name="backNotificationSecrete">Back notification secrete</string>
+    <string name="backNotificationBigText">Back notification big text</string>
+    <string name="result">Result is: </string>
+    <string name="notImplemented"> not implemented appropriate interface- answerInterface.</string>
+    <string name="basicDialogTitle">Important question</string>
+    <string name="basicDialogMsg">Which button is nicer?</string>
+    <string name="basicDialogButton1">1. button</string>
+    <string name="basicDialogButton2">2. button</string>
+    <string name="basicDialogNoOne">No one correct</string>
+    <string name="basicDialogAnswer1">1. button is nicer</string>
+    <string name="basicDialogAnswer2">2. button is nicer</string>
+    <string name="basicDialogAnswerBoth">Both of them are nice</string>
+    <string name="extrasName">spec</string>
+    <string name="msgNotif1">Public back notification 1. was used</string>
+    <string name="msgNotif1Title">Back notification 1- private</string>
+    <string name="msgNotif1Text">This notification will get you back to previous activity.</string>
+    <string name="msgNotif2Title">Call to mother</string>
+    <string name="msgNotif2Text">You should call to mother. It is her birthday.</string>
+    <string name="msgNotif3">You came to this activity via notification</string>
+    <string name="msgNotif3ToMain">Back notification 3. button, main option was used</string>
+    <string name="msgNotif3Title">You should go back</string>
+    <string name="msgNotif3Text">Main activity is more interesting.</string>
+    <string name="dialogsLabel">Check dialogs</string>
+    <string name="noTextMainPage">No result</string>
+    <string name="basicDialogButton">Basic dialog</string>
+    <string name="dialogWithOutputButton">Dialog with output</string>
+    <string name="passwordDialogQuestion">Please, type your password</string>
+    <string name="mainText">You can use menu and try notifications and dialogs. With notification it is able to come back to this page. In result text view will be shown, which notification button was used.</string>
 </resources>
